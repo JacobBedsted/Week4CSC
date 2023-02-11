@@ -52,5 +52,10 @@ namespace Week_3_Assignment.Controllers
                 return slist;
             }
         }
+
+        public string LogObject(string input)
+        {
+            return input;
+        }
     }
 }
