@@ -1,0 +1,27 @@
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.exe
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.deps.json
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.pdb
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\scopedcss\bundle\Week 3 Assignment.styles.css
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.csproj.CopyComplete
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\refint\Week 3 Assignment.dll
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.pdb
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Desktop\Folders\School\2023 Spring\C II\Week 3\Week 3 Assignment\Week 3 Assignment\obj\Debug\net6.0\ref\Week 3 Assignment.dll
