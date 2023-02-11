@@ -34,14 +34,14 @@ namespace Week_3_Assignment.Controllers
 
                     if (counter > 1)
                     {
-                        slist.Add("Elements: " + counter + ": Current Standard Deviation: " + StDev);
+                        slist.Add(LogObject("Elements: " + counter + ": Current Standard Deviation: " + StDev));
                     }
                     else
                     {
-                        slist.Add("List not long enough");
+                        slist.Add(LogObject("List not long enough"));
                     }
                 }
-                Console.WriteLine("Sum: " + sum);
+                Console.WriteLine(LogObject("Sum: " + sum));
 
                 return slist;
             }
@@ -51,11 +51,13 @@ namespace Week_3_Assignment.Controllers
                 slist.Add("Error: Invalid values");
                 return slist;
             }
-        }
 
-        public string LogObject(string input)
-        {
-            return input;
+            string LogObject(string input)
+            {
+                //logging character at postision 0
+                System.Diagnostics.Debug.WriteLine(input[0]);
+                return input;
+            }
         }
     }
 }
